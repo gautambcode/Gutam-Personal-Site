@@ -1,0 +1,48 @@
+body {
+  font-family: aCoolFont;  
+  margin: 0;
+  src: url(https://fonts.googleapis.com/css2?family=Dancing+Script&family=New+Tegomin&family=Open+Sans:wght@300&display=swap);
+}
+
+h1 {
+  font-family: myFirstFont;
+  margin-top: 0;
+  src: url(https://fonts.google.com/share?selection.family=New%20Tegomin%7COpen%20Sans:wght@300);
+}
+
+.top-container {
+  background-color: #E4F9F5;
+}
+
+title {
+  font-family: 'Indie Flower', cursive;
+}
+
+.middle-container {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-container {
+  background-color: orange;
+  height: 200px;
+  width: 200px;
+}
+
+.pro {
+  text-decoration: underline;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300;
+  top: 50px;
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  left: 300px;
+  position: absolute;
+}
