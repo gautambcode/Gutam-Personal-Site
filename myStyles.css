@@ -4,6 +4,15 @@ body {
   margin: 0;
   src: url(https://fonts.googleapis.com/css2?family=Dancing+Script&family=New+Tegomin&family=Open+Sans:wght@300&display=swap);
 }
+
+.float {
+    width:200px;
+    height:100px;
+    background:red;
+    float:left;
+    margin-top:-100px
+}
+
 html {
 	align-content: center;
 	animation: 50s para infinite linear;
