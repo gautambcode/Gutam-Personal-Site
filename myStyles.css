@@ -59,6 +59,10 @@ title {
   width: 200px;
 }
 
+.center {
+	text-align: center;
+	}	
+	
 .bottom-container {
   background-color: orange;
   height: 200px;
