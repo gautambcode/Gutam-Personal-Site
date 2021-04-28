@@ -1,29 +1,31 @@
 body {
+  align-content: center;	
   font-family: aCoolFont;  
   margin: 0;
   src: url(https://fonts.googleapis.com/css2?family=Dancing+Script&family=New+Tegomin&family=Open+Sans:wght@300&display=swap);
 }
 html {
+	align-content: center;
+	animation: 50s para infinite linear;
   	height: 100%;
 	/* max-height: 600px; */
-	width: 1000px;
 	background-color: hsla(200,40%,30%,.4);
 	background-image:		
 		url('https://78.media.tumblr.com/8cd0a12b7d9d5ba2c7d26f42c25de99f/tumblr_p7n8kqHMuD1uy4lhuo2_1280.png'),
-	background-repeat: repeat-x;
 	background-position: 
 		0 20%,
 		0 100%,
 		0 50%,
 		0 100%,
 		0 0;
+	background-repeat: repeat-x;	
 	background-size: 
 		2500px,
 		800px,
 		500px 200px,
 		1000px,
 		400px 260px;
-	animation: 50s para infinite linear;
+	width: 1000px;	
 	}
 
 @keyframes para {
