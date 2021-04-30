@@ -35,6 +35,7 @@ h1 {
   font-family: myFirstFont;
   margin-top: 0;
   src: url(https://fonts.google.com/share?selection.family=New%20Tegomin%7COpen%20Sans:wght@300);
+  color: #FFD700;
 }
 
 .top-container {
