@@ -17,9 +17,9 @@ body {
 html {
 	align-content: center;
 	animation: 50s para infinite linear;
-  	height: 100%;
 	/* max-height: 600px; */
 	background-color: hsla(200,40%,30%,.4);
+	background-height: 100%;	
 	background-position: 
 		0 20%,
 		0 100%,
@@ -33,7 +33,7 @@ html {
 		500px 200px,
 		1000px,
 		400px 260px;
-	width: 1000px;	
+	background-width: 1000px;		
 	}
 
 @keyframes para {
